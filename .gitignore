@@ -1,0 +1,19 @@
+
+# Compiled executables
+*.exe
+*.out
+*.o
+
+# Build directories
+build/
+.pio/
+
+# Debug files
+*.pdb
+*.ilk
+
+# Temporary files
+*.log
+
+# IDE temporary files
+.vs/
